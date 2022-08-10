@@ -3,4 +3,4 @@ Repositório do Desafio de Projeto sobre Git/Hub
 
 ## Responsáveis
 
-Primeiro repositório do Projeto javascript - Fabrício Ramalho - Dev
+Primeiro repositório do Projeto javascript, criando o arquivo README.md  - Fabrício Ramalho - Dev
