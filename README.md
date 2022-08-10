@@ -3,4 +3,4 @@ Repositório do Desafio de Projeto sobre Git/Hub
 
 ## Responsáveis
 
-Fabrício Ramalho - Dev
+Primeiro repositório do Projeto javascript - Fabrício Ramalho - Dev
